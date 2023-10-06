@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "num2fraction": "^1.2.2"
+  }
+}
